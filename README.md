@@ -8,11 +8,13 @@
 Nama project ini adalah [Nama Project], sebuah platform yang bertujuan [penjelasan singkat mengenai tujuan dan manfaat dari project kelompok kamu]. Dengan menggunakan teknologi-teknologi modern, kami berusaha memberikan pengalaman terbaik kepada pengguna kami.
 
 ### 👨🏻‍💻Anggota Kelompok:
-- NPM NAMA ([Github NAMA](link-to-github))
-- NPM NAMA ([Github NAMA](link-to-github))
+----------------
+- NPM NAMA (Link Github)
+- NPM NAMA (Link Github)
 - [Tambahkan lainnya]
 
 ### ⚙️Teknologi yang dipakai di Website:
+----------------
 - HTML/CSS
 - Bootstrap
 - React JS
@@ -21,6 +23,7 @@ Nama project ini adalah [Nama Project], sebuah platform yang bertujuan [penjelas
 - [Tambahkan lainnya]
 
 ### 💻Fitur-fitur Website:
+----------------
 1. **Fitur 1**: [Deskripsi singkat fitur 1]
 2. **Fitur 2**: [Deskripsi singkat fitur 2]
 3. **Fitur 3**: [Deskripsi singkat fitur 3]
