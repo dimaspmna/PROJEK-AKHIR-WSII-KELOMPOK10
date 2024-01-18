@@ -1,7 +1,7 @@
 # NAMA WEBSITE
 ## KELOMPOK [Nomor]
 
-[Gunakan screenshot dari web dan foto masing2 anggota]
+[Gunakan screenshot dari projek web (salah satu saja) dan foto masing2 anggota]
 ![Template Github README](https://github.com/Dimaspermana293/PROJEK-AKHIR-WSII-KELOMPOK10/assets/97396687/f3c9eaec-4252-4a24-93ee-35cdfaee01b5)
 
 ### 🌐Tentang Project:
